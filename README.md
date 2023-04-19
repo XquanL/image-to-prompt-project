@@ -11,9 +11,11 @@ This study explores the possibility of reversing the relationship between text a
 pip install -r requirements.txt
 ```
 
-**Step 2a - Run BLIP Model** \n
+**Step 2a - Run BLIP Model** 
+
 All necessary code used to train the BLIP model are found under `10_code/BLIP_training.ipynb` file.
 
-**Step 2b - Run ViT Model** \n
+**Step 2b - Run ViT Model** 
+
 All necessary code used to train the ViT model are found under `10_code/ViT_training.ipynb` file.
 
