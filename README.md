@@ -17,5 +17,5 @@ All necessary code used to train the BLIP model are found under `10_code/BLIP_tr
 
 **Step 2b - Run ViT Model** 
 
-All necessary code used to train the ViT model are found under `10_code/ViT_training.ipynb` file.
+All necessary code used to train the ViT model are found under `10_code/VIT_Model_Training.ipynb` file.
 
