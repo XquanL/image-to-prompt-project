@@ -1,0 +1,17 @@
+pylint
+black
+numpy
+pandas
+matplotlib
+transformers
+s3fs
+datasets
+torch
+torchmetrics
+sklearn
+evaluate
+torch
+bert-score
+sentence-transformers
+wandb
+fast-bleu
