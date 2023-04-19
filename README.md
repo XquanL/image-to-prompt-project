@@ -6,10 +6,11 @@ This study explores the possibility of reversing the relationship between text a
 
 ## How To Run / Train Models
 
-**Step 1**
+**Step 1 - Install Required Libraries**
 ```
 pip install -r requirements.txt
 ```
 
-
+**Step 2a - Run BLIP Model**
+All necessary code used to train the BLIP model are found under `02_code/BLIP_training.ipynb`.
 
